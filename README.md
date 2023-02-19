@@ -44,13 +44,13 @@ Each proposal for an ECMAScript feature goes through the following maturity stag
 |1  | [Variable Scoping](#variable-scoping) |
 |2  | [Arrow functions](#arrow-functions) |
 |3  | [Classes](#classes) |
-|4  | [Enhanced object literals](#Enhanced-object-literals) |
+|4  | [Enhanced object literals](#enhanced-object-literals) |
 |5  | [Template literals](#template-literals) |
 |6  | [Destructuring](#destructuring) |
 |7  | [Default parameters](#default-parameters) |
 |8  | [Rest parameter](#rest-parameter) |
 |9  | [Spread Operator](#spread-operator) |
-|10 | [Iterators & For..of](#iterators-&-forof) |
+|10 | [Iterators & For..of](#iterators-and-forof) |
 |11 | [Generators](#generators) |
 |12 | [Modules](#modules) |
 |13 | [Set](#set) |
@@ -472,7 +472,7 @@ Each proposal for an ECMAScript feature goes through the following maturity stag
 
     **[⬆ Back to Top](#table-of-contents)**
 
-10. ### Iterators & For..of
+10. ### Iterators And Forof
 
     String, Array, TypedArray, Map, and Set are all built-in iterables but objects are not iterables by default.
     Iterators are a new way to loop over any collection in JavaScript. These are objects which defines a sequence and potentially a return value upon its termination.
